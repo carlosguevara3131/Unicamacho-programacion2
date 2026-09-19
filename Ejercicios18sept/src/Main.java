@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Ejercicios de bucles y while clase");
 
-        Scanner scan = new Scanner(System.in); //usao el scanner para leer datos de entrada
+        Scanner scan = new Scanner(System.in); //uso el scanner para leer datos de entrada
 
         System.out.println("Adivina mi color favorito: "); //declaramos la variable bandera y le asignamos el valor que el usuario ingrese
         String bandera = scan.nextLine(); //leemos la entrada del usuario
