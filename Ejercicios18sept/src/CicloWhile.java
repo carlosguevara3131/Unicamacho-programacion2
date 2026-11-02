@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CicloWhile {
     public static void main(String[] args) {
 
         System.out.println("Ejercicios de bucles y while clase");
